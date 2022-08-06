@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-echo "my second prog updated"
+echo "my second prog 1 updated"
